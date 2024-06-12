@@ -21,7 +21,6 @@
 
 # nuitka-project: --include-module=zeroconf._utils.ipaddress
 # nuitka-project: --include-module=zeroconf._handlers.answers
-# nuitka-project: --include-module=pkg_resources.extern
 
 # nuitka-project: --report=compilation-report.xml
 
